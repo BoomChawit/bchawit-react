@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bchawit-react/static/css/main.f54129e7.css",
+    "main.js": "/bchawit-react/static/js/main.f23db34d.js",
+    "static/media/Pic_01.png": "/bchawit-react/static/media/Pic_01.c7ec612d5847dec1ea85.png",
+    "static/media/Pic_05.png": "/bchawit-react/static/media/Pic_05.bff4b1fbdc7cfe11d6bd.png",
+    "static/media/Pic_03.jpg": "/bchawit-react/static/media/Pic_03.7675b92fe77aff9aa8c3.jpg",
+    "index.html": "/bchawit-react/index.html",
+    "main.f54129e7.css.map": "/bchawit-react/static/css/main.f54129e7.css.map",
+    "main.f23db34d.js.map": "/bchawit-react/static/js/main.f23db34d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f54129e7.css",
+    "static/js/main.f23db34d.js"
+  ]
+}
